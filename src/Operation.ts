@@ -1,5 +1,6 @@
 import { Operation as ApolloOperation } from '@apollo/client/link/core';
-import dotProp from 'dot-prop';
+// @ts-ignore
+import dotProp from './dot-prop';
 
 import { isEmpty } from './utils';
 
