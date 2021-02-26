@@ -1,4 +1,5 @@
 # Directories
-lib
+# lib
 node_modules
 tests/coverage
+.idea/

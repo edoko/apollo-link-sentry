@@ -29,8 +29,7 @@
     "deploy": "yarn publish --non-interactive"
   },
   "dependencies": {
-    "deepmerge": "^4.2.2",
-    "dot-prop": "^6.0.0"
+    "deepmerge": "^4.2.2"
   },
   "peerDependencies": {
     "@apollo/client": "^3.2.3",
